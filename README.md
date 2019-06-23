@@ -30,7 +30,28 @@ The learning module ends with a set of comprehension / self evaluation questions
 
 And finally the hands-on exercise focuses on building images with dockerfiles. This exercise is documented in the document (9) and also formatted as a Katacoda scenario [here](https://www.katacoda.com/houssein/scenarios/build-images).
 
+# Structure
+
+The rough structure of the module looks like the following:
+
+- Introduction
+	- 00 Welcome
+	- 01 Description
+- 02 The Nature of Images
+- Building Images
+	- 03 Methods of Building Images
+	- Building Images Interactively
+		- 04 drawing
+		- 05 demo
+	- Building Images with Dockerfiles
+		- 06 dockerfiles
+		- 07 concept
+- 08 Questions
+- 09 Hands-on Exercise
+
 # Constraints / TODOs
 
-More crucial Dockerfile instructions can be introcuded, such as `ENTRYPOUNT` and `COPY`, as well as concepts to build more efficient images.
+- Add more text content and further reading resources for every subsection, for those who like to read and ho beyond the course material.
+
+- More crucial Dockerfile instructions can be introcuded, such as `ENTRYPOUNT` and `COPY`, as well as concepts to build more efficient images.
 
