@@ -24,6 +24,9 @@ Videos (4) and (5) focus on the interactive method of building images.
 
 Videos (6) and (7) deal with the method of building images with Dockerfiles.
 
-The document
+The learning module ends with a set of comprehension / self evaluation questions added here in the document (8).
+
+And finally the hands-on exercise focuses on building images with dockerfiles. This exercise is documented in the document (9) and also formatted as a Katacoda scenario [here](https://www.katacoda.com/houssein/scenarios/build-images).
 
 #Constraints / TODOs
+
