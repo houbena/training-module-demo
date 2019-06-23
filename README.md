@@ -1,9 +1,11 @@
 #Introduction
+
 This a short training module made by me using Docker, Katacoda, and simple editing tools such as Keynote, iMovie.
 
 The topic of this module is about building container images. It assumes basic knowledge of running containers.
 
 #Contents
+
 This module includes:
 
 - videos,
