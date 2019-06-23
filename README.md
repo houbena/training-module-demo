@@ -1,10 +1,10 @@
-#Introduction
+# Introduction
 
 This a short training module made by me using Docker, Katacoda, and simple editing tools such as Keynote, iMovie.
 
-The topic of this module is about building container images. It assumes basic knowledge of running containers.
+The topic of this module is about building container images. This module distinguish itself from other modules that handle the same topic. Beyond the basic knowledge, it provides **best practices**, **troubleshooting** and explains the **concepts** while most learning modules stick to the simple how-to approach.  
 
-#Contents
+# Contents
 
 This module includes:
 
@@ -30,5 +30,7 @@ The learning module ends with a set of comprehension / self evaluation questions
 
 And finally the hands-on exercise focuses on building images with dockerfiles. This exercise is documented in the document (9) and also formatted as a Katacoda scenario [here](https://www.katacoda.com/houssein/scenarios/build-images).
 
-#Constraints / TODOs
+# Constraints / TODOs
+
+More crucial Dockerfile instructions can be introcuded, such as `ENTRYPOUNT` and `COPY`, as well as concepts to build more efficient images.
 
