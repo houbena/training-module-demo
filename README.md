@@ -37,21 +37,41 @@ The rough structure of the module looks like the following:
 - Introduction
 	- 00 Welcome
 	- 01 Description
-- 02 The Nature of Images
-- Building Images
+- Definitions
+	- 02 The Nature of Images
 	- 03 Methods of Building Images
-	- Building Images Interactively
-		- 04 drawing
-		- 05 demo
-	- Building Images with Dockerfiles
-		- 06 dockerfiles
-		- 07 concept
-- 08 Questions
-- 09 Hands-on Exercise
+- Building Images Interactively
+	- 04 drawing
+	- 05 demo
+- Building Images with Dockerfiles
+	- 06 What are Dockerfiles
+	- 07 How Images are Built
+- Self-Evaluation
+	- 08 Questions
+	- 09 Hands-on Exercise
 
 # Constraints / TODOs
 
 - Add more text content and further reading resources for every subsection, for those who like to read and ho beyond the course material.
 
-- More crucial Dockerfile instructions can be introcuded, such as `ENTRYPOUNT` and `COPY`, as well as concepts to build more efficient images.
+- Add more technical details, in this example further useful Dockerfile instructions can be introcuded, such as `ENTRYPOUNT` and `COPY`, as well as concepts to build more efficient images.
 
+- Add feedback elements to the student such as:
+	- Feedback at the end of the self evaluation section.
+	- trainer appears in the middle of the module to give feedback.
+	- Add an outro for the module / transition to the next module.
+
+- Add a feedback elements to the course developer, such as:
+	- short survey at the end or quick comprehension questions between modules/units.
+	- Add a discussion element under every unit. Usually learning units that include errors or that are not explained well receive more comments from students.
+	
+	
+- The instructor should lead students in the videos:
+	- tell them where to go next
+	- Introduce the next topic
+	- Ask them to answer questions / take teh survey
+	- etc.
+
+- In self paced courses, the learning material should be able - or at least try - to cover the instructors job. The instructions must includes troubleshooting, hints and best practices. For the demo purpose this module includes some, but it lacks many.
+
+- 
