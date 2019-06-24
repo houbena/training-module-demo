@@ -30,7 +30,7 @@ The learning module ends with a set of comprehension / self evaluation questions
 
 And finally the hands-on exercise focuses on building images with dockerfiles. This exercise is documented in the document (9) and also formatted as a Katacoda scenario [here](https://www.katacoda.com/houssein/scenarios/build-images).
 
-# Structure
+# Tentative Structure
 
 The rough structure of the module looks like the following:
 
@@ -74,4 +74,4 @@ The rough structure of the module looks like the following:
 
 - In self paced courses, the learning material should be able - or at least try - to cover the instructors job. The instructions must includes troubleshooting, hints and best practices. For the demo purpose this module includes some, but it lacks many.
 
-- 
+- Anything else?
